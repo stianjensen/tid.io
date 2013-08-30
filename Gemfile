@@ -5,3 +5,6 @@ gem 'rails', '4.0.0'
 
 # Use pg as the database for Active Record
 gem 'pg'
+
+gem 'sass-rails'
+gem 'bootstrap-sass', '~> 2.3.2.2'
