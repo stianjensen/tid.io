@@ -10,3 +10,5 @@ gem 'sass-rails'
 gem 'bootstrap-sass', '~> 2.3.2.2'
 
 gem 'sqlite3'
+
+gem 'devise'
